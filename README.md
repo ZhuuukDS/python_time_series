@@ -1,6 +1,8 @@
 # Python Time Series
 
-## Complete Guide on Time Series Analysis in Python
+<h2> `Complete Guide on Time Series Analysis in Python` </h2>
+
+Click [here](/time_series.ipynb) to check the notebook
 
 As the name implies, this notebook is all about Time Series Analysis. A time series is a series of data points recorded at different time-intervals. The time series analysis means analyzing the time series data using various statistical tools and techniques.
 
@@ -12,5 +14,5 @@ The concepts and code in this notebook is taken from the following websites:
  - [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3)
 
 
-<a href='python_time_series.ipynb'><img src='data/two_side_view.png'></a>
+<a href='time_series.ipynb'><img src='data/two_side_view.png'></a>
 
