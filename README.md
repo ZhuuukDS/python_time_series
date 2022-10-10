@@ -12,5 +12,5 @@ The concepts and code in this notebook is taken from the following websites:
  - [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3)
 
 
-<img src='data/two_side_view.png'>
+<a href='python_time_series.ipynb'><img src='data/two_side_view.png'></a>
 
